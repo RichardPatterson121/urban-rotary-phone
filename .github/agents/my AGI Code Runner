@@ -1,0 +1,10 @@
+		(# 1. Clone your repo (if you haven't)
+git clone https://github.com/RichardPatterson121/urban-rotary-phone.git
+cd urban-rotary-phone
+git checkout Richy
+
+# 2. Create the components folder and add the physics-precise dial
+mkdir -p components
+
+# 3. Copy the file (from the artifact I already created for you)
+# On your machine, copy the content below into components/RotaryDial.tsx
